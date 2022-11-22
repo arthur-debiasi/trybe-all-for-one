@@ -1,3 +1,2 @@
 SELECT notes FROM purchase_orders
-WHERE notes IS NOT NULL
-LIMIT 5;
+WHERE notes LIKE 'Purchase generated based on Order #3_';
