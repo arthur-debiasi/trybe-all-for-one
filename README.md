@@ -6,14 +6,13 @@ Creation of queries in SQL using DDL(Data Definition Language), DML(Data Manipul
 
 ## 🚀 Built With
 
-> [![Bash][Bash]][Bash-url][![Docker][Docker]][Docker-url]
+> [![MySQL][MySQL]][MySQL-url]
 
 ## 📌 Skills
 
-- Using Docker commands in the CLI;
-- Create Docker images of applications;
-- Create and run Docker containers;
-- Orchestrate containers using Docker Compose.
+- Use DDL, DML and DQL commands in SQL;
+- Create queries for searching and filtering data;
+- Create queries for inserting, updating and removing data.
 
 ## Getting Started
 
@@ -64,3 +63,5 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 [React-Redux-url]: https://react-redux.js.org/
 [Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
+[MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://dev.mysql.com/doc/
