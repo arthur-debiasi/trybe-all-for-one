@@ -14,30 +14,6 @@ Creation of queries in SQL using DDL(Data Definition Language), DML(Data Manipul
 - Create queries for searching and filtering data;
 - Create queries for inserting, updating and removing data.
 
-## Getting Started
-
-### ⬇️ Dependencies
-
-```bash
-npm install
-cd docker
-``` 
-
-### ⚡ Running the Aplication
-
-Initially build the back-end, front-end and test images:
-
-```bash
-docker image build -t todobackend ./todo-app/back-end
-docker image build -t todofrontend ./todo-app/front-end
-docker image build -t todotests ./todo-app/tests
-```
-Then orchestrate the containers:
-
-```bash
-npm start
-``` 
-
 ## 💬 Contact Me
 
 <div align="left" style="display: inline_block">
